@@ -1,0 +1,43 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using ClassLibrary;
+
+namespace Sistema_Supervisório
+{
+    public partial class Teste : System.Web.UI.Page
+    {
+        OpcClient client;
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            client = new OpcClient();
+            //procurando por servidores
+            string[] servers = client.DisplayLocalOpcV2V3Servers();
+            if (servers != null)
+            {
+                for (int i = 0; i < servers.Length; i++)
+                {
+                    lbl1.Text = lbl1.Text + servers[i];
+                }
+            }
+            
+            //conectando ao servidor
+            lbl2.Text = lbl2.Text + client.conectar();
+            //resultado da conexao
+            lbl3.Text = lbl3.Text + client.resultadoDaConexao;
+            //Estado do Server_0:
+            lbl4.Text = lbl4.Text;
+            //Estado do Driver_1000
+            lbl5.Text = lbl5.Text + client.resultadoLeituraS;
+            
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

@@ -1,0 +1,35 @@
+body{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-color: #FFF;
+}
+
+.titulo{
+    font-size: 40px;
+    font-weight:500;
+}
+
+.mensagem{
+    margin-bottom: 10px;
+    border-style: ridge;
+}
+.mensagem .lblMensagem{
+    text-align: center;
+}
+.corpo{
+    margin-top: 20px;
+}
+.corpo .visualizaRpm{
+    margin: 0 auto;
+    border-style: ridge;
+}
+.corpo .modoOperacao{
+    margin: 0 auto;
+    min-width: 230px;
+    max-width: 400px;
+    border-style: ridge;
+}
+.corpo .input-group{
+    margin-top: 10px;
+}
+

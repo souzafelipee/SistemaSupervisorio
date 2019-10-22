@@ -1,0 +1,7 @@
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\ClassLibrary\bin\Release\ClassLibrary.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\ClassLibrary\bin\Release\ClassLibrary.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\ClassLibrary\bin\Release\OpcDaNet.Net4.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\ClassLibrary\bin\Release\OpcDaNet.Net4.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\ClassLibrary\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\ClassLibrary\obj\Release\ClassLibrary.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\ClassLibrary\obj\Release\ClassLibrary.pdb

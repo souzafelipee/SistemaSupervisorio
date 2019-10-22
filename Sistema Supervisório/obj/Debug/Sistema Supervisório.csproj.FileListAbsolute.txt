@@ -1,0 +1,39 @@
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\ApplicationInsights.config
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\csc.exe
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\vbc.exe
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\VBCSCompiler.exe
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Sistema Supervisório.dll.config
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Sistema Supervisório.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Sistema Supervisório.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\ClassLibrary.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.Web.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\OpcDaNet.Net4.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\ClassLibrary.pdb
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.Web.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\bin\OpcDaNet.Net4.xml
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\obj\Debug\Sistema Supervisório.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\obj\Debug\Sistema_Supervisório.Properties.Resources.resources
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\obj\Debug\Sistema Supervisório.csproj.GenerateResource.Cache
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\obj\Debug\Sistema Supervisório.dll
+C:\Users\Felipe\documents\visual studio 2015\Projects\Sistema Supervisório\Sistema Supervisório\obj\Debug\Sistema Supervisório.pdb
